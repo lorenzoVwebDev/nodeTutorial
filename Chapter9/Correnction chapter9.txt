@@ -1,0 +1,7 @@
+spread operator
+
+parseInt()
+
+sort()  
+
+find()

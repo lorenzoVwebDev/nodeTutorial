@@ -1,0 +1,5 @@
+20240611	12:57:46	da7df9b4-71ad-4466-adb6-dad7ec565ce3	Error: Not allowed by CORS
+20240611	12:57:46	5d820cba-d356-441f-829a-9b0d85418c0d	Error: Not allowed by CORS
+20240612	12:15:51	d02a621b-c267-4a86-a744-113cce16ab50	SyntaxError: Expected property name or '}' in JSON at position 8
+20240612	12:16:41	7d074d84-184f-4013-872d-05ac8aa9ac04	SyntaxError: Unexpected token 'u', ..."rstname": ugo,
+  "la"... is not valid JSON

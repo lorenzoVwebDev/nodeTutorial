@@ -1,0 +1,4 @@
+20240618	11:33:03	01f8bcb5-3d18-4dfc-a568-e4ac40b61690	SyntaxError: Expected property name or '}' in JSON at position 2
+20240620	09:26:32	b2e0c254-a79a-46a9-b2b2-e267536d96da	TypeError: authHeader?.startWith is not a function
+20240620	09:28:36	170e8d8f-d5cf-4939-89aa-efaa51291bb4	TypeError: authHeader?.startWith is not a function
+20240620	09:29:52	6fcdae04-f4af-4430-bb79-66f03269ae15	TypeError: authHeader?.startwith is not a function

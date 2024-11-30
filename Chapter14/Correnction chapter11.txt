@@ -1,0 +1,5 @@
+cross site scripting
+
+cross site request forgery
+
+jwt.verify()
